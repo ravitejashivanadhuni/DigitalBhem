@@ -80,7 +80,7 @@ The application is run using root.mainloop().
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 # License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 # Acknowledgments
 Inspired by various BMI calculators and Python GUI tutorials.
 Thanks to the Python and Tkinter documentation for the guidance.
