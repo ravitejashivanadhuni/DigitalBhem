@@ -48,10 +48,12 @@ python gui_bmi_calculator.py
 
 Enter your weight in kilograms in the "Weight (kg)" field.
 Enter your height in meters in the "Height (m)" field.
+
 2.Calculate BMI:
 
 Click the "Calculate BMI" button.
 Your BMI and health category will be displayed.
+
 3.View History:
 
 Click the "Show History" button to view all previous BMI records stored in the database.
